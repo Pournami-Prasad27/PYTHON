@@ -1,0 +1,10 @@
+d={1: 2 , 3:4 , 4:3 , 2:1 , 0:0}
+print("orginal dictionary:",d)
+l=list(d.items())
+l.sort()
+print('Ascending order is',1)
+l=list(d.items())
+l.sort(reverse=True)
+print('Descending order is',1)
+dict=dict(l)
+print("Dictionary",dict)
