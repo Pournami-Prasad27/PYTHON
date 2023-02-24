@@ -1,0 +1,23 @@
+OUTPUT :
+ 
+Enter your account type: savings 
+Account Holder Name: alfia 
+Account Number: 12121212 
+Account Type: savings 
+Your Balance Amount: 0 
+ 
+Menu 
+1.Deposit 
+2.Withdraw 
+Enter your choice:1 
+Enter the amount to deposit1000 
+Your total balance is : 1000 
+ 
+Menu 
+1.Deposit 
+2.Withdraw 
+Enter your choice:2 
+Enter the amount to be withdrawn:900 
+Your total balance Amount is 100 
+
+
